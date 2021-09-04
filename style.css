@@ -1,0 +1,45 @@
+button{
+    height:30px;
+    width:100px;
+    color:black;
+    }
+    
+    .body_background{
+        background-image: url("j.jpg");
+    }
+
+    body{
+        color: azure;
+        align-items: center;
+    }
+
+
+    
+    div{
+        background-color:black;
+        color: rgb(219, 243, 243);
+        padding: 10px;
+        border-style: solid;
+		float: none;
+		border-radius: 15px;
+        width: 500px;
+    }
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
